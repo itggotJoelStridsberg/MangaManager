@@ -1,0 +1,19 @@
+<!doctype.html>
+<html>
+<head>
+	
+</head>
+<body>
+	<header>
+    </header>
+    
+    <nav>
+    </nav>
+    
+    <section>
+    </section>
+    
+    <footer>
+    </footer>
+</body>
+</html>
