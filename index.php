@@ -4,6 +4,7 @@
 	
 </head>
 <body>
+	<div class="wrapper">
 	<header>
     </header>
     
@@ -15,5 +16,6 @@
     
     <footer>
     </footer>
+	</div>
 </body>
 </html>
